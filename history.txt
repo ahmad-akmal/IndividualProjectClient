@@ -1,0 +1,5 @@
+google.com resolve to 216.58.221.206
+gmail.com resolve to 172.217.166.133
+yahoo.com resolve to 74.6.143.25
+facebook.com resolve to 157.240.10.35
+shopee.com resolve to 103.115.78.65
